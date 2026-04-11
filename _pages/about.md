@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I recently completed my PhD in Electrical and Computer Engineering at University of Ottawa, where I also earned my Master’s degree. I was a visiting PhD student at Yale University in 2025 and at University of Oxford in 2024. I received my Bachelor’s degree from China University of Petroleum.
+Hi there! I recently completed my PhD in Electrical and Computer Engineering at University of Ottawa, where I also earned my Master’s degree. During my doctoral studies, I was a visiting PhD student at Yale University in 2025 and at University of Oxford in 2024. I received my B.Eng. in Petroleum Engineering from China University of Petroleum (UPC) in 2018.
+
+My research focuses on network management and programmable data planes, with a particular emphasis on leveraging machine learning techniques to design efficient and intelligent network management systems.
