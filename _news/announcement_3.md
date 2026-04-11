@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my PhD thesis! 
+I successfully defended my PhD thesis and was also nominated for an award!
