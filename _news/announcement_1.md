@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my PhD thesis! 
+MUTA got accepted at IEEE TNSM!
