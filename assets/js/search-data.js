@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-successfully-defended-my-phd-thesis",
-          title: 'I successfully defended my PhD thesis!',
+            },},{id: "news-muta-got-accepted-at-ieee-tnsm",
+          title: 'MUTA got accepted at IEEE TNSM!',
           description: "",
           section: "News",},{id: "news-i-successfully-defended-my-phd-thesis-and-was-also-nominated-for-an-award",
           title: 'I successfully defended my PhD thesis and was also nominated for an award!...',
