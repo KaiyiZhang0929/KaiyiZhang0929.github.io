@@ -456,6 +456,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=7U4qyvYAAAAJ", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/kaiyi-zhang-20514b1a0", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
