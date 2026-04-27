@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2026-4-27 15:59:00-0400
+inline: true
+related_posts: false
+---
+
+I joined the University of Waterloo as a postdoc researcher.
