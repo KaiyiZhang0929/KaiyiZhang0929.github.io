@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-News.
+I joined the University of Waterloo as a Postdoctoral Scholar!
