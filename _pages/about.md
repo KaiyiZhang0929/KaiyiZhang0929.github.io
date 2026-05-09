@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Ottawa</a>. kzhan122 at uottawa dot ca
+subtitle: <a href='#'>David R. Cheriton School of Computer Science, University of Waterloo</a>. kaiyi.zhang at uwaterloo dot ca
 
 profile:
   align: right
