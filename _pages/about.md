@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a Postdoctoral Scholar at the David R. Cheriton School of Computer Science, University of Waterloo, working with Prof. [Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca/). I received my PhD in Electrical and Computer Engineering from the University of Ottawa, where I worked with Prof. Nancy Samaan and Prof. Ahmed Karmouch, and where I also earned my Master’s degree. During my doctoral studies, I was a visiting PhD student at Yale University in 2025 and at University of Oxford in 2024. I received my B.Eng. in Petroleum Engineering from China University of Petroleum (UPC) in 2018.
+Hi there! I am a Postdoctoral Scholar at the David R. Cheriton School of Computer Science, University of Waterloo, working with Prof. [Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca/). I received my PhD in Electrical and Computer Engineering from the University of Ottawa, where I worked with Prof. [Nancy Samaan](https://scholar.google.com/citations?hl=en&user=vFlBkx0AAAAJ&view_op=list_works) and Prof. [Ahmed Karmouch](https://scholar.google.com/citations?user=kQpPzdgAAAAJ&hl=en), and where I also earned my Master’s degree. During my doctoral studies, I was a visiting PhD student at Yale University in 2025 and at University of Oxford in 2024. I received my B.Eng. in Petroleum Engineering from China University of Petroleum (UPC) in 2018.
 
 My research focuses on network management and programmable data planes, with a particular emphasis on leveraging machine learning techniques to design efficient and intelligent network management systems. My work received the Best Paper Award at the 2025 IEEE HPSR.
 
