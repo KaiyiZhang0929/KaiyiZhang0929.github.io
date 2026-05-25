@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-25'
 papers:
   7U4qyvYAAAAJ:4DMP91E08xMC:
-    citations: 14
+    citations: 15
     title: Optimized Look-Ahead Offloading Decisions using Deep Reinforcement Learning for Battery Constrained Mobile IoT Devices
     year: '2020'
   7U4qyvYAAAAJ:4OULZ7Gr8RgC:
-    citations: 4
+    citations: 5
     title: 'MUTA: Enabling Multi-Task Neural Network Inference in Programmable Data-Planes'
     year: '2025'
   7U4qyvYAAAAJ:NaGl4SEjCO4C:
@@ -18,11 +18,11 @@ papers:
     title: Towards Unsupervised Drift Detection in Programmable Data-Planes
     year: '2025'
   7U4qyvYAAAAJ:dfsIfKJdRG4C:
-    citations: 1
+    citations: 3
     title: Design, Implementation, and Deployment of Multi-Task Neural Networks in Programmable Data-Planes
     year: '2025'
   7U4qyvYAAAAJ:lSLTfruPkqcC:
-    citations: 16
+    citations: 17
     title: A Machine Learning-Based Toolbox for P4 Programmable Data-Planes
     year: '2024'
   7U4qyvYAAAAJ:mB3voiENLucC:
