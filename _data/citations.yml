@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-12'
 papers:
   7U4qyvYAAAAJ:4DMP91E08xMC:
     citations: 15
@@ -18,11 +18,11 @@ papers:
     title: Towards Unsupervised Drift Detection in Programmable Data-Planes
     year: '2025'
   7U4qyvYAAAAJ:dfsIfKJdRG4C:
-    citations: 3
+    citations: 5
     title: Design, Implementation, and Deployment of Multi-Task Neural Networks in Programmable Data-Planes
     year: '2025'
   7U4qyvYAAAAJ:lSLTfruPkqcC:
-    citations: 17
+    citations: 18
     title: A Machine Learning-Based Toolbox for P4 Programmable Data-Planes
     year: '2024'
   7U4qyvYAAAAJ:mB3voiENLucC:
