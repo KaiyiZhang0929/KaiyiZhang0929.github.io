@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-29'
 papers:
   7U4qyvYAAAAJ:4DMP91E08xMC:
     citations: 16
@@ -22,7 +22,7 @@ papers:
     title: Design, Implementation, and Deployment of Multi-Task Neural Networks in Programmable Data-Planes
     year: '2025'
   7U4qyvYAAAAJ:lSLTfruPkqcC:
-    citations: 21
+    citations: 23
     title: A Machine Learning-Based Toolbox for P4 Programmable Data-Planes
     year: '2024'
   7U4qyvYAAAAJ:mB3voiENLucC:
